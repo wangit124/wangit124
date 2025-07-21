@@ -1,1 +1,1 @@
-[Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangit124)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
