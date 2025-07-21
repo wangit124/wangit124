@@ -1,20 +1,31 @@
+## Overview
 ![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangit124&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangit124&langs_count=20&size_weight=0&count_weight=1&hide=Jupyter%20Notebook,Ruby,Procfile,Makefile,Tex&hide_progress=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Howard-Dev)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=GenUI)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=IEEE-Quarterly-Projects)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Hackeye-Mobile)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Easy-Tour)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=DevBot-Coding-Assistant)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Pi-for-Parkinsons)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Hackeye.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Flix-Clone)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Hackernews)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Parstagram)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Twitter-Clone)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Tip-Calculator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Smartfin)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Luminerva-Random-Math-Generator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Connect-4)](https://github.com/anuraghazra/github-readme-stats)
+## Projects
+### 🖥️ Web
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Howard-Dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=GenUI)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=IEEE-Quarterly-Projects)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📱 Mobile
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Hackeye-Mobile)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tinder-for-Boba&repo=Foodie-Social-App)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Flix-Clone)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Hackernews)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Parstagram)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Twitter-Clone)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Tip-Calculator)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔧 Hackathon
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Easy-Tour)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=DevBot-Coding-Assistant)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Pi-for-Parkinsons)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🎮 Games
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Luminerva-Random-Math-Generator)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Connect-4)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔬 Research
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wangit124&repo=Smartfin)](https://github.com/anuraghazra/github-readme-stats)
